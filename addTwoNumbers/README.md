@@ -7,6 +7,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ---
 
 ### Example 1:
+<img width="483" height="342" alt="image" src="https://github.com/user-attachments/assets/0f195779-a298-4c8e-a13b-4fb694368198" />
 
 **Input:** `l1 = [2,4,3], l2 = [5,6,4]`  
 **Output:** `[7,0,8]`  
